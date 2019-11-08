@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<style>
+body{
+	background-color: #000333;
+	font-size: 03em;
+	color: orange;	
+	text-align: center;
+	text-decoration-style: upper;
+
+}
+</style>
+<body>
+<h1>Hi....</h1>
+<h2>The website has been blocked by Google Chrome.
+	Please Contact System administrator- Chakravarthi
+</body>
+</html>
